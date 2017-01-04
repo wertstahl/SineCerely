@@ -1,0 +1,17 @@
+Download and install CBM Prg Studio by Arthur Jordison (Microsoft Windows required)
+
+http://www.ajordison.co.uk/
+
+
+
+Open SineCerely.cbmprj in CBM Prg Studio
+
+Assemble main.asm to program (PRG)
+
+Use resulting .prg file with real PAL Commodore C64 Hardware or VICE Emulator.
+
+Pressing Space exits Intro and resets C64.
+
+
+Watch the other contributions to the ICC 2016 on CSDb: http://csdb.dk/event/?id=2526
+
